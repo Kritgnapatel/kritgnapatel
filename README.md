@@ -51,17 +51,9 @@ Currently focused on **Node.js, Java, and system-level thinking**.
 
 ---
 
-## 📈 GitHub Stats
-
-![Kritgna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
 ## 🤝 Let's Connect
 
-- 🔗 LinkedIn: https://linkedin.com/in/yourusername  
+- 🔗 LinkedIn: [https://linkedin.com/in/yourusername  ](https://www.linkedin.com/in/kritgna-patel-812778324)
 - 📧 Email: patelkritgna06@gmail.com  
 
 ---
