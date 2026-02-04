@@ -53,7 +53,7 @@ Currently focused on **Node.js, Java, and system-level thinking**.
 
 ## 🤝 Let's Connect
 
-- 🔗 LinkedIn: [https://linkedin.com/in/Kritgna patel]([https://www.linkedin.com/in/kritgna-patel-812778324](https://www.linkedin.com/in/kritgna-patel-812778324))
+- 🔗 LinkedIn: [https://linkedin.com/in/Kritgna patel](https://www.linkedin.com/in/kritgna-patel-812778324))
 - 📧 Email: patelkritgna06@gmail.com  
 
 ---
